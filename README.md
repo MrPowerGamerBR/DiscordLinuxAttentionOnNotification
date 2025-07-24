@@ -26,3 +26,5 @@ https://github.com/user-attachments/assets/6acb1716-51a7-4911-a3a8-c6d19c5696f5
 Because the Discord Canary deb package uses the `discord-canary.desktop` file name, KDE Plasma gets confused and doesn't know how to associate the notifications and unread notification badges (if you have `libunity`) to the desktop icon, so you aren't able to disable notifications from the KDE Plasma Notifications panel.
 
 To fix this, you need to rename the `discord-canary.desktop` to `discord.desktop`. You also need to do this if you are using the Discord Canary AUR package, because it also has the same issue.
+
+For more information: https://wiki.archlinux.org/title/Discord#Notification_badge_is_missing (contributed by myself :3)
