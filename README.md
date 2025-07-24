@@ -13,6 +13,8 @@ By mixing the two, we can filter Discord notifications with `dbus-monitor` and, 
 
 Discord's notifications MUST be enabled in the client for this script to work. To hide the notifications, disable them in KDE Plasma's notification settings.
 
+https://github.com/user-attachments/assets/6acb1716-51a7-4911-a3a8-c6d19c5696f5
+
 ## Dependencies
 
 * KDE Plasma (Wayland)
